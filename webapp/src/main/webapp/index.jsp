@@ -1,3 +1,3 @@
-<h1> DG4 RESOURCES!!! </h1>
+<h1> NHU NGOC </h1>
 <h2> DEVOPS PROJECT </h2>
-<h3> HO TUAN KIET </h3>
+<h3> TUAN KIET </h3>
