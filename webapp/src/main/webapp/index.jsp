@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> TMA SOLUTIONS !!! </h1>
+<h2> DEVOPS PROJECT </h2>
+<h3> HO TUAN KIET </h3>
