@@ -1,3 +1,3 @@
-<h1> TMA SOLUTIONS !!! </h1>
+<h1> DG4 RESOURCES!!! </h1>
 <h2> DEVOPS PROJECT </h2>
 <h3> HO TUAN KIET </h3>
