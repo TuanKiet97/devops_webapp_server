@@ -1,4 +1,3 @@
-<h1> DEVOPS PROJECT</h1>
-<h2>GITHUB_JENKINS_MAVEN_ANSIBLE_TOMCAT  </h2>
-<h3> BELIEVE IN YOURSEFT</h3>
-<h3> TRY YOUR BEST, I WILL SUCCESS</h3>
+<h1> Hello, Welcome to Simple Devops Project </h1>
+<h2>Glad to see you here</h2>
+
